@@ -11,10 +11,10 @@
 [![Likes](https://badgen.org/img/zenn/rinrin_yuuki/likes?style=for-the-badge)](https://zenn.dev/rinrin_yuuki)
 
 <p align="left"> 
-<img src="https://github-readme-stats.vercel.app/api?username=YuukiHayashi0510&show_icons=true&theme=transparent" height="150px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuukiHayashi0510&layout=compact&theme=transparent" height="150px" />
+<img src="https://github-readme-stats.vercel.app/api?username=rin2yh&show_icons=true&theme=transparent" height="150px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin2yh&layout=compact&theme=transparent" height="150px" />
 </p>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YuukiHayashi0510&column=6&margin-w=5&margin-h=5&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=rin2yh&column=6&margin-w=5&margin-h=5&no-bg=true)
 
