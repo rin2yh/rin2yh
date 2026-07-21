@@ -7,4 +7,4 @@
 [![Contributions](https://badgen.org/img/qiita/yuuki-h/contributions?style=for-the-badge)](https://qiita.com/yuuki-h)
 [![Likes](https://badgen.org/img/zenn/rinrin_yuuki/likes?style=for-the-badge)](https://zenn.dev/rinrin_yuuki)
 
-[Personal Blog](https://rin2yh.github.io/blog/)
+[Personal Blog](https://rin2yh.com/)
